@@ -1,0 +1,3 @@
+ROUTER = "R1"
+IP_ADDRESS = "10.0.0.1"
+USERNAME = "cisco"
